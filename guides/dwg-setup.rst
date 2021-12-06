@@ -41,7 +41,7 @@ There are two tabs in **Drawing Preferences**, "Paper" and "Dimensions", that re
       1. On the "Paper" tab: Selecting a paper size and orientation will determine the *print scale* used for final output.  The print scale is used to determine the "General Scale".
       2. On the "Dimensions" tab: Setting the "General Scale" will adjust the dimension text and related parameters to suit the page size.
 
-The paper format, orientation, and margins to be used is an important to consideration when setting the drawing preferences.  The page size is entirely up to the user to determine based on what is available (depending on the printer or printing service that is being used).  While it can be done at anytime, establishing the page size sooner than later will help determine the "General Scale".
+The paper format, orientation, and margins to be used is an important consideration when setting the drawing preferences.  The page size is entirely up to the user to determine based on what is available (depending on the printer or printing service that is being used).  While it can be done at anytime, establishing the page size sooner than later will help determine the "General Scale".
 
 .. admonition:: Tip - Determining Scale
 
